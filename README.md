@@ -21,4 +21,7 @@
 2. Mở bằng Android Studio.
 3. Chạy trên thiết bị/emulator.
 
-> Đây là bản demo mẫu. Có thể mở rộng bằng cách thêm Room DB, Retrofit API, Firebase Auth và các tính năng thanh toán.
+## Related Services
+- [Glow - Booking Massage at Home Ha Noi](https://glowvietnam.com/en/home-massage-hanoi)
+- [Glow - Booking Massage at Home Da Nang](https://glowvietnam.com/en/home-massage-da-nang)
+- [Glow - Booking Massage at Home Ho Chi Minh](https://glowvietnam.com/en/home-massage-ho-chi-minh)
